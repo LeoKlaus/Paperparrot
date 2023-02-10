@@ -32,7 +32,7 @@ Please create a bug report at [issues](https://github.com/LeoKlaus/Paperparrot/i
 
 
 ## It would be nice if Paperparrot could...
-I collect feature requests and ideas for improvement in [the discussion section of the repository](https://github.com/LeoKlaus/Paperparrot/discussions/new/choose). You can create feature requests and vote on other ideas here. Please check if a similar feature has been requested before and vote on that instead of creating a duplicate.
+I collect feature requests and ideas for improvement in [the discussion section of the repository](https://github.com/LeoKlaus/Paperparrot/discussions). You can create feature requests and vote on other ideas [here](https://github.com/LeoKlaus/Paperparrot/discussions/new/choose). Please check if a similar feature has been requested before and vote on that instead of creating a duplicate.
 
 
 ## What exactly is a...
