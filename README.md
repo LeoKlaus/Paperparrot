@@ -1,7 +1,8 @@
 # Paperparrot
 
-Paperparrot is and will be available for Apple Devices only.<br/>
+Paperparrot is and will be available for Apple Devices (iPhone, iPad and Mac) only.<br/>
 Currently, it is still in closed beta via Testflight. If you would like to participate in the beta, feel free to contact me.
+There is also a Discord now to discuss the app: [Join here](https://discord.gg/xa6hTS3GU8)
 
 ## What is this app?
 Paperparrot originated as a client for the awesome Paperless-ng(x), a document management system that you can host on your own infrastructure like a NAS, homeserver or a server you rent in the cloud.
