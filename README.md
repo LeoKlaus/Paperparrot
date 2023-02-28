@@ -3,7 +3,7 @@
 Paperparrot is and will be available for Apple Devices (iPhone, iPad and Mac) only.<br/>
 <a target="_blank" href='https://apps.apple.com/us/app/paperparrot/id1663665267'>
     <img alt='Get Paperparrot on the App Store' src='images/AppStoreBadge.svg' height="60" />
-</a>
+</a><br/>
 There is also a Discord now to discuss the app: [Join here](https://discord.gg/xa6hTS3GU8)
 
 ## What is this app?
