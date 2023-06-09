@@ -1,0 +1,12 @@
+Paperparrot est un client Mac natif pour Paperless-ng(x) écrit en Swift.
+
+Caractéristiques :
+- Attribution automatique d'attributs personnalisés comme les tags, les correspondants, la date de création et le type de document.
+- Ajouter des documents dans différents formats comme PDF, JPEG, PNG ou TXT
+- Numérisez vos documents depuis Paperparrot en utilisant l'appareil photo de votre téléphone ou un scanner réseau compatible Airscan.
+- Sécurisez vos documents à l'aide de Touch-ID
+- Capacités de recherche étendues
+- Créez des vues personnalisées pour accéder facilement à des ensembles de documents
+- Partagez des documents avec Paperparrot depuis d'autres applications
+- Synchronisez vos documents depuis votre serveur Paperless-ng(x) vers votre appareil pour un accès hors ligne.
+- Mode sombre !
